@@ -4,9 +4,9 @@ Select protocol.
 Input the UDP/TCP payload as following.
 
 1122 /*payload heximal format*/
-#BEGINE# -s #END# /*messesage seperator, one sent message*/
+#BEGIN# -s #END# /*messesage seperator, one sent message*/
 11 22 /*payload heximal format*/
-#BEGINE# -r #END# /*messesage seperator,one received message*/
+#BEGIN# -r #END# /*messesage seperator,one received message*/
 
 11 22 /*payload heximal format*/
 /*no messesage seperator is a sent msg*/
